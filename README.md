@@ -1,4 +1,4 @@
-### Welcome to my Profile
+ <h1 >Welcome to my Profile</h1>
 
 - 💻 I'm a student of Computer Science Engineering in ISEC Coimbra
 - 📫 <a href="https://www.linkedin.com/in/pedro-jorge-9543a41bb/"> My Linkedin </a> 
