@@ -4,11 +4,6 @@
 - 📫 <a href="https://www.linkedin.com/in/pedro-jorge-9543a41bb/"> My Linkedin </a> 
 
 
-<div>
-  <a href="https://github.com/pedrojorge188">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedrojorge188&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
-
 ###
 
 
